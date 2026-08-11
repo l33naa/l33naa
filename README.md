@@ -1,32 +1,10 @@
-<!-- ===================================================== -->
-<!--                                                      -->
-<!--                    ⚡ LEENA'S LAB ⚡                  -->
-<!--                                                      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-# ⚡ LEENA'S LAB ⚡
-
-### ELECTRICAL + COMPUTER ENGINEERING
-
-`BUILD`　•　`TEST`　•　`DEBUG`　•　`REPEAT`
-
-<br>
-
-### `[ PRESS START ]`
+<img src="assets/LeenasLab_Banner.png" width="100%" alt="Leena's Lab">
 
 </div>
 
----
-
 ## `01 // PLAYER PROFILE`
-
-```text
-> PLAYER DETECTED...
-> LOADING PROFILE...
-> ████████████████████ 100%
-```
 
 Electrical & Computer Engineering student exploring the space where **hardware meets software**.
 
