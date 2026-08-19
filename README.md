@@ -6,16 +6,23 @@
 
 ## `01 // PLAYER PROFILE`
 
-Electrical & Computer Engineering student exploring the space where **hardware meets software**.
+```text
+╔══════════════════════════════════════════════════════════╗
+║  PLAYER : LEENA                                         ║
+║  CLASS  : ELECTRICAL & COMPUTER ENGINEERING             ║
+║  MODE   : ALWAYS BUILDING                               ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+Electrical & Computer Engineering student interested in exploring and learning the beauty of hardware and software through hands-on engineering, experimentation, and lots and lots of problem solving. 
 
 ```text
-PLAYER INTERESTS
-├── ⚡ Electronics
-├── ⚙️ Robotics
-├── 📡 Embedded Systems
-├── 🛰️ Space Technology
-└── 🧠 AI & Machine Learning
+⚡ ELECTRONICS          📡 EMBEDDED SYSTEMS
+⚙️ ROBOTICS             🛰️ SPACE TECHNOLOGY
+💻 PROGRAMMING          🧠 AI / MACHINE LEARNING
 ```
+
+> **CURRENT OBJECTIVE:** Build. Experiment. Learn. Repeat.
 
 ---
 
